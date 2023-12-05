@@ -1,0 +1,10 @@
+shot_first_time_shot
+shot_technique_shot
+shot_one_on_one_shot
+shot_open_goal_shot
+play_pattern_shot
+pass_height_pass
+under_pressure_shot
+shot_body_part_mf
+x
+y

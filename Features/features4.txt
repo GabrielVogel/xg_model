@@ -1,0 +1,16 @@
+shot_first_time_shot
+shot_technique_shot
+shot_one_on_one_shot
+shot_open_goal_shot
+play_pattern_shot
+pass_height_pass
+shot_body_part_mf
+players_behind_ball
+distance_to_goal
+angle_to_goal
+players_between_shot_and_goal
+players_in_radius
+goalkeeper_position
+goalkeeper_distance_to_goal
+goalkeeper_distance_to_shot
+goalkeeper_in_goal
